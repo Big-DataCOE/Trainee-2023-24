@@ -1,0 +1,20 @@
+//GitHub Introduction 
+
+Github: It is a platform on which different users can work on same project at same time together without any interruption .
+
+//Download Git Bash and config (connect git and github together)
+// Important Commands 
+
+git init : Create an empty Git repository or reinitialize an existing one
+git clone github-repo-link : used to copy repository in Local System from Github.
+git add . : Add all changes in repository .
+git add file-name : Add all changes made in a particular file in a repository.
+git commit -m "Add message" : used to save all changes in repository .
+git push origin main : used to push all changes made in Local system to Github .
+git pull : used to pull all changes made in Github to Local System.
+
+cd : To change directory 
+cd .. : To come back to previous directory 
+
+git status : to check the status of Updates 
+ls : to check all files 
