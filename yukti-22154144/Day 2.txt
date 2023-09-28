@@ -1,0 +1,15 @@
+//Forking and Branches 
+
+Fork : It is used to copy Author repository link to make changes in it .
+//Steps to fork :
+	1. open Github and Open repository which need to fork .
+	2. fork and create that trainee repo 
+	3. On Trainee repo copy it's link and clone it on your git .
+	4. Make changes to your Trainee folder and push it on github .
+
+
+//Branches 
+git branch newBranch-name : used to create new Branch
+git checkout newBranch-name : used to go on newBranch 
+
+//Pull request : It lets you to tell author about changes that we've pushed to a branch in a repository .
