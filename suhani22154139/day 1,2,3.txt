@@ -1,0 +1,25 @@
+progress of 3 days
+DAY 1 
+ we learnt 
+-git and github
+-commit
+-cd
+-add .
+-push & pull
+-clone
+
+
+DAY 2
+
+-fork
+-branches
+-pull request
+
+DAY 3
+-web development 
+>web
+>website
+>protocols
+>FRONTEND TOOLS
+>BACKEND TOOLS
+>API
