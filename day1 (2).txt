@@ -1,0 +1,6 @@
+learnings
+-git vs github
+-cd
+-add .
+-commit
+-push
