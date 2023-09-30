@@ -1,1 +1,29 @@
-git github clone push
+// day 1 progerss
+
+-> git
+-> github
+-> configuring git
+
+//commands
+
+-> git init-initialize an existing directory as git repository.
+-> git clone <-link-> -cloning a repository on our local machine.
+-> git status-displays the state of the code.
+-> git add . -adds new or changed files in your working directory to the git staging area.
+-> git commit -m"some message" -it is the record of the changes.
+-> git push origin main-uploads local repo content to remote repo.
+
+-> cd <-folder name-> -changing directory.
+-> ls-list files.
+
+
+
+
+
+
+
+
+
+
+
+

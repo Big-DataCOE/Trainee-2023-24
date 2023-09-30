@@ -1,0 +1,7 @@
+//day 4 progress
+
+-> basics of app dvelopment.
+-> android apps.
+-> ios apps.
+-> flutter.
+-> dart.

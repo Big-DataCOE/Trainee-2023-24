@@ -1,0 +1,12 @@
+//day 3 progress
+
+-> about web development.
+-> how websites work.
+-> networking.
+-> client,server,ICP,DNS,API.
+
+
+
+
+
+
