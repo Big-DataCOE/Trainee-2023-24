@@ -1,0 +1,15 @@
+//App Development
+
+//Flutter : A tool which allows us to build native cross-platform applications(Android , iOS , Web , Desktop) via one programming language and codebase .
+
+//cross platform : Computer product or system that can work across multiple types of platforms or operating environments . 
+				or 
+Write code once and reuse for different platforms .
+
+//native : Applications is formed using its native Languages and exclusively for a single platform .
+
+//Hybrid : A blend solution that consists of both native and web solutions .
+
+//benefits of flutter 
+-> It directly controls every UI design for different platforms. (Custom implementation) 
+-> It has its own rendering engine .

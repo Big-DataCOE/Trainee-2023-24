@@ -1,0 +1,19 @@
+//Web Development 
+It is a process of Building websites and applications for the internet using programming languages and technologies .
+
+//Front-end                               //Backened                                            
+-Builds web page                          - Work on DataBase
+layout                                    - It contain some data organized according
+using HTML , CSS                            to input .
+& JavaScript                              - When input is given on web page it give request
+-Input request is transfered		    to backened and output is Transfer to web page 
+to backened through APIs.		    by using APIs .
+
+
+//APIs : Application programmer interface
+//rendering 
+//domain name 
+//FrameWorks  
+//cdn
+//server
+//types of server
