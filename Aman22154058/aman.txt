@@ -1,0 +1,4 @@
+Terms learns 
+Git pull
+git merge 
+git push 
