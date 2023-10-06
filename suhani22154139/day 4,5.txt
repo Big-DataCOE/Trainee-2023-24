@@ -1,0 +1,20 @@
+DAY 4
+APP DEVELOPMENT
+
+-what is app ?
+-importance of APPS
+-TYPES OF APPS
+-FLUTTER 
+-WIDGETS
+-DART
+
+
+DAY 5
+
+BIG DATA
+-what is big data
+-tools of big data
+-hadoop
+-hdfs
+-map reducing 
+-yarn
